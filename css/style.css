@@ -1,0 +1,57 @@
+body {
+    background-color: black;
+}
+
+textarea {
+    text-align:center;
+    vertical-align: middle;
+
+    width: 100%;
+    height: 100%;
+    background-color: transparent;
+    font-size: 40px;	
+    font-family: Arial, Helvetica, sans-serif;
+
+    border: none;
+    overflow: auto;
+    outline: none;
+
+    -webkit-box-shadow: none;
+    -moz-box-shadow: none;
+    box-shadow: none;
+}
+
+#img {
+    max-width: 640px;
+    max-height: 480px;
+}
+
+* {
+    -webkit-touch-callout: none;
+    -webkit-user-select: none;
+    -khtml-user-select: none;
+    -moz-user-select: none;
+    -ms-user-select: none;
+    user-select: none;
+}
+
+textarea {
+    -webkit-touch-callout: initial;
+    -webkit-user-select: initial;
+    -khtml-user-select: initial;
+    -moz-user-select: initial;
+    -ms-user-select: initial;
+    user-select: initial;
+}
+
+input#upload {
+    margin-top: 280px;
+    margin-left: 210px;
+    font-size: 30px;
+    color: transparent;
+}
+
+.visible {
+    display: block;
+    background-color: red;
+}
