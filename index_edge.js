@@ -257,86 +257,6 @@
                             'none'
                         ],
                         [
-                            "eid1140",
-                            "opacity",
-                            0,
-                            2000,
-                            "easeInOutElastic",
-                            "${sterren}",
-                            '0',
-                            '1'
-                        ],
-                        [
-                            "eid1409",
-                            "left",
-                            1629,
-                            0,
-                            "linear",
-                            "${sterren}",
-                            '195px',
-                            '195px'
-                        ],
-                        [
-                            "eid1203",
-                            "top",
-                            67000,
-                            1000,
-                            "easeOutQuad",
-                            "${spandoek}",
-                            '-406px',
-                            '-380px'
-                        ],
-                        [
-                            "eid1435",
-                            "top",
-                            0,
-                            2000,
-                            "linear",
-                            "${Credits}",
-                            '1080px',
-                            '874px'
-                        ],
-                        [
-                            "eid1433",
-                            "top",
-                            2000,
-                            597,
-                            "linear",
-                            "${Credits}",
-                            '874px',
-                            '996px'
-                        ],
-                        [
-                            "eid1202",
-                            "left",
-                            67000,
-                            1000,
-                            "easeOutQuad",
-                            "${spandoek}",
-                            '532px',
-                            '509px'
-                        ],
-                        [
-                            "eid1158",
-                            "rotateZ",
-                            66000,
-                            2000,
-                            "linear",
-                            "${verstuur2}",
-                            '0deg',
-                            '-9deg'
-                        ],
-                        [
-                            "eid1119",
-                            "top",
-                            17837,
-                            0,
-                            "easeInOutQuad",
-                            "${golf1}",
-                            '953px',
-                            '953px'
-                        ],
-                        [
                             "eid1182",
                             "location",
                             0,
@@ -371,6 +291,96 @@
                             "linear",
                             "${verstuur2}",
                             [[1923.3, 561.21, 175.7, 505.77, 0, 0,0],[1693.17, 879.5, 0, 0, 0, 0,423.35]]
+                        ],
+                        [
+                            "eid1409",
+                            "left",
+                            1629,
+                            0,
+                            "linear",
+                            "${sterren}",
+                            '195px',
+                            '195px'
+                        ],
+                        [
+                            "eid1203",
+                            "top",
+                            67000,
+                            1000,
+                            "easeOutQuad",
+                            "${spandoek}",
+                            '-406px',
+                            '-380px'
+                        ],
+                        [
+                            "eid1202",
+                            "left",
+                            67000,
+                            1000,
+                            "easeOutQuad",
+                            "${spandoek}",
+                            '532px',
+                            '509px'
+                        ],
+                        [
+                            "eid1143",
+                            "display",
+                            0,
+                            0,
+                            "linear",
+                            "${spandoek}",
+                            'none',
+                            'none'
+                        ],
+                        [
+                            "eid1144",
+                            "display",
+                            19000,
+                            0,
+                            "linear",
+                            "${spandoek}",
+                            'none',
+                            'block'
+                        ],
+                        [
+                            "eid1158",
+                            "rotateZ",
+                            66000,
+                            2000,
+                            "linear",
+                            "${verstuur2}",
+                            '0deg',
+                            '-9deg'
+                        ],
+                        [
+                            "eid1119",
+                            "top",
+                            17837,
+                            0,
+                            "easeInOutQuad",
+                            "${golf1}",
+                            '953px',
+                            '953px'
+                        ],
+                        [
+                            "eid1076",
+                            "opacity",
+                            1250,
+                            750,
+                            "linear",
+                            "${start}",
+                            '0',
+                            '1'
+                        ],
+                        [
+                            "eid1070",
+                            "opacity",
+                            2000,
+                            597,
+                            "linear",
+                            "${start}",
+                            '1',
+                            '0'
                         ],
                         [
                             "eid1159",
@@ -443,24 +453,24 @@
                             '0.82647'
                         ],
                         [
-                            "eid1056",
-                            "display",
+                            "eid1435",
+                            "top",
                             0,
-                            0,
-                            "easeInQuad",
-                            "${Fade}",
-                            'none',
-                            'block'
+                            2000,
+                            "linear",
+                            "${Credits}",
+                            '1080px',
+                            '874px'
                         ],
                         [
-                            "eid1073",
-                            "display",
+                            "eid1433",
+                            "top",
                             2000,
-                            0,
-                            "easeInQuad",
-                            "${Fade}",
-                            'block',
-                            'none'
+                            597,
+                            "linear",
+                            "${Credits}",
+                            '874px',
+                            '996px'
                         ],
                         [
                             "eid1198",
@@ -533,76 +543,6 @@
                             '0'
                         ],
                         [
-                            "eid1054",
-                            "display",
-                            60101,
-                            0,
-                            "easeInQuad",
-                            "${oinkbeest-loop}",
-                            'none',
-                            'none'
-                        ],
-                        [
-                            "eid1258",
-                            "rotateZ",
-                            20871,
-                            0,
-                            "easeInQuad",
-                            "${spandoek}",
-                            '-2deg',
-                            '-2deg'
-                        ],
-                        [
-                            "eid1210",
-                            "rotateZ",
-                            68000,
-                            0,
-                            "easeOutQuad",
-                            "${spandoek}",
-                            '-2deg',
-                            '-2deg'
-                        ],
-                        [
-                            "eid1207",
-                            "scaleY",
-                            67000,
-                            1000,
-                            "easeOutQuad",
-                            "${spandoek}",
-                            '1',
-                            '0.82647'
-                        ],
-                        [
-                            "eid1127",
-                            "top",
-                            2000,
-                            597,
-                            "linear",
-                            "${start}",
-                            '402px',
-                            '1090px'
-                        ],
-                        [
-                            "eid1420",
-                            "left",
-                            0,
-                            2000,
-                            "easeOutQuad",
-                            "${Instructies2}",
-                            '1394px',
-                            '1372px'
-                        ],
-                        [
-                            "eid1426",
-                            "left",
-                            2000,
-                            597,
-                            "easeOutQuad",
-                            "${Instructies2}",
-                            '1372px',
-                            '1908px'
-                        ],
-                        [
                             "eid1019",
                             "display",
                             0,
@@ -633,6 +573,76 @@
                             'block'
                         ],
                         [
+                            "eid1258",
+                            "rotateZ",
+                            20871,
+                            0,
+                            "easeInQuad",
+                            "${spandoek}",
+                            '-2deg',
+                            '-2deg'
+                        ],
+                        [
+                            "eid1210",
+                            "rotateZ",
+                            68000,
+                            0,
+                            "easeOutQuad",
+                            "${spandoek}",
+                            '-2deg',
+                            '-2deg'
+                        ],
+                        [
+                            "eid1420",
+                            "left",
+                            0,
+                            2000,
+                            "easeOutQuad",
+                            "${Instructies2}",
+                            '1394px',
+                            '1372px'
+                        ],
+                        [
+                            "eid1426",
+                            "left",
+                            2000,
+                            597,
+                            "easeOutQuad",
+                            "${Instructies2}",
+                            '1372px',
+                            '1908px'
+                        ],
+                        [
+                            "eid1127",
+                            "top",
+                            2000,
+                            597,
+                            "linear",
+                            "${start}",
+                            '402px',
+                            '1090px'
+                        ],
+                        [
+                            "eid1207",
+                            "scaleY",
+                            67000,
+                            1000,
+                            "easeOutQuad",
+                            "${spandoek}",
+                            '1',
+                            '0.82647'
+                        ],
+                        [
+                            "eid1054",
+                            "display",
+                            60101,
+                            0,
+                            "easeInQuad",
+                            "${oinkbeest-loop}",
+                            'none',
+                            'none'
+                        ],
+                        [
                             "eid1092",
                             "display",
                             0,
@@ -653,44 +663,34 @@
                             'block'
                         ],
                         [
-                            "eid1076",
-                            "opacity",
-                            1250,
-                            750,
-                            "linear",
-                            "${start}",
-                            '0',
-                            '1'
-                        ],
-                        [
-                            "eid1070",
-                            "opacity",
-                            2000,
-                            597,
-                            "linear",
-                            "${start}",
-                            '1',
-                            '0'
-                        ],
-                        [
-                            "eid1143",
+                            "eid1056",
                             "display",
                             0,
                             0,
-                            "linear",
-                            "${spandoek}",
+                            "easeInQuad",
+                            "${Fade}",
                             'none',
+                            'block'
+                        ],
+                        [
+                            "eid1073",
+                            "display",
+                            2000,
+                            0,
+                            "easeInQuad",
+                            "${Fade}",
+                            'block',
                             'none'
                         ],
                         [
-                            "eid1144",
-                            "display",
-                            19000,
+                            "eid1140",
+                            "opacity",
                             0,
-                            "linear",
-                            "${spandoek}",
-                            'none',
-                            'block'
+                            2000,
+                            "easeInOutElastic",
+                            "${sterren}",
+                            '0',
+                            '1'
                         ],
                             [ "eid1080", "trigger", 2500, function executeSymbolFunction(e, data) { this._executeSymbolAction(e, data); }, ['play', '${vis1}', [0] ] ],
                             [ "eid1069", "trigger", 3000, function executeMediaFunction(e, data) { this._executeMediaAction(e, data); }, ['play', '${oinkbeest-intro}', [] ] ],
@@ -699,8 +699,8 @@
                             [ "eid1130", "trigger", 16000, function executeSymbolFunction(e, data) { this._executeSymbolAction(e, data); }, ['play', '${bergen}', [] ] ],
                             [ "eid1117", "trigger", 19000, function executeSymbolFunction(e, data) { this._executeSymbolAction(e, data); }, ['play', '${spandoek}', [0] ] ],
                             [ "eid1021", "trigger", 51000, function executeMediaFunction(e, data) { this._executeMediaAction(e, data); }, ['play', '${oinkbeest-loop}', [] ] ],
-                            [ "eid1437", "trigger", 66000, function executeMediaFunction(e, data) { this._executeMediaAction(e, data); }, ['pause', '${oinkbeest-loop}', [] ] ],
                             [ "eid1438", "trigger", 66000, function executeMediaFunction(e, data) { this._executeMediaAction(e, data); }, ['pause', '${oinkbeest-intro}', [] ] ],
+                            [ "eid1437", "trigger", 66000, function executeMediaFunction(e, data) { this._executeMediaAction(e, data); }, ['pause', '${oinkbeest-loop}', [] ] ],
                             [ "eid1180", "trigger", 67000, function executeSymbolFunction(e, data) { this._executeSymbolAction(e, data); }, ['play', '${boodschap}', [0] ] ]
                     ]
                 }
@@ -715,27 +715,27 @@
                 content: {
                     dom: [
                         {
-                            rect: ['0', '0', '221px', '247', 'auto', 'auto'],
-                            id: 'Group2',
                             type: 'group',
+                            id: 'Group2',
+                            rect: ['0', '0', '221px', '247', 'auto', 'auto'],
                             c: [
                             {
-                                rect: ['102px', '23px', '109px', '99px', 'auto', 'auto'],
-                                id: 'IJsbeer1_kop-01',
                                 type: 'image',
+                                id: 'IJsbeer1_kop-01',
+                                rect: ['102px', '23px', '109px', '99px', 'auto', 'auto'],
                                 fill: ['rgba(0,0,0,0)', 'images/IJsbeer1_kop-01.svg', '0px', '0px']
                             },
                             {
-                                rect: ['23px', '18px', '134px', '229px', 'auto', 'auto'],
-                                id: 'IJsbeer1_lijf-01',
                                 type: 'image',
+                                id: 'IJsbeer1_lijf-01',
+                                rect: ['23px', '18px', '134px', '229px', 'auto', 'auto'],
                                 fill: ['rgba(0,0,0,0)', 'images/IJsbeer1_lijf-01.svg', '0px', '0px']
                             },
                             {
-                                type: 'image',
-                                id: 'IJsbeer1_staart-01',
                                 rect: ['8px', '1px', '35px', '36px', 'auto', 'auto'],
+                                id: 'IJsbeer1_staart-01',
                                 transform: [[], [], [], [], ['86.1272%', '80.23%']],
+                                type: 'image',
                                 fill: ['rgba(0,0,0,0)', 'images/IJsbeer1_staart-01.svg', '0px', '0px']
                             }]
                         },
@@ -801,22 +801,22 @@
                 content: {
                     dom: [
                         {
-                            rect: ['10px', '20px', '131px', '88px', 'auto', 'auto'],
-                            id: 'kop',
                             type: 'image',
+                            id: 'kop',
+                            rect: ['10px', '20px', '131px', '88px', 'auto', 'auto'],
                             fill: ['rgba(0,0,0,0)', 'images/IJsbeer2_kop-01.svg', '0px', '0px']
                         },
                         {
-                            rect: ['94px', '-7px', '146px', '213px', 'auto', 'auto'],
-                            id: 'lijf',
                             type: 'image',
+                            id: 'lijf',
+                            rect: ['94px', '-7px', '146px', '213px', 'auto', 'auto'],
                             fill: ['rgba(0,0,0,0)', 'images/IJsbeer2_lijf-01.svg', '0px', '0px']
                         },
                         {
-                            type: 'image',
-                            id: 'staart',
                             rect: ['207px', '-29px', '26px', '35px', 'auto', 'auto'],
+                            id: 'staart',
                             transform: [[], ['14'], [], [], ['0%', '99.9999%']],
+                            type: 'image',
                             fill: ['rgba(0,0,0,0)', 'images/IJsbeer2_staart-01.svg', '0px', '0px']
                         }
                     ],
@@ -834,14 +834,14 @@
                     },
                     data: [
                         [
-                            "eid230",
-                            "rotateZ",
-                            0,
-                            470,
-                            "linear",
-                            "${staart}",
-                            '14deg',
-                            '0deg'
+                            "eid672",
+                            "left",
+                            1000,
+                            1000,
+                            "easeOutCubic",
+                            "${kop}",
+                            '10px',
+                            '11px'
                         ],
                         [
                             "eid671",
@@ -854,14 +854,14 @@
                             '32px'
                         ],
                         [
-                            "eid672",
-                            "left",
-                            1000,
-                            1000,
-                            "easeOutCubic",
-                            "${kop}",
-                            '10px',
-                            '11px'
+                            "eid230",
+                            "rotateZ",
+                            0,
+                            470,
+                            "linear",
+                            "${staart}",
+                            '14deg',
+                            '0deg'
                         ],
                         [
                             "eid666",
@@ -886,35 +886,35 @@
                 content: {
                     dom: [
                         {
-                            rect: ['42px', '17px', '347px', '358px', 'auto', 'auto'],
-                            id: 'Group6',
                             transform: [[], ['-5'], [], ['-1'], ['28.3036%', '85.0477%']],
-                            autoOrient: false,
+                            id: 'Group6',
                             type: 'group',
+                            autoOrient: false,
+                            rect: ['42px', '17px', '347px', '358px', 'auto', 'auto'],
                             c: [
                             {
-                                type: 'rect',
+                                rect: ['200', '51', '147', '113', 'auto', 'auto'],
                                 id: 'vleugel2',
                                 symbolName: 'Pinguin_vleugel2',
-                                rect: ['200', '51', '147', '113', 'auto', 'auto']
+                                type: 'rect'
                             },
                             {
-                                type: 'rect',
+                                rect: ['46', '0', '75', '141', 'auto', 'auto'],
                                 id: 'vleugel1',
                                 symbolName: 'Pinguin1_vleugel1',
-                                rect: ['46', '0', '75', '141', 'auto', 'auto']
+                                type: 'rect'
                             },
                             {
-                                type: 'image',
-                                id: 'lijf',
                                 rect: ['0px', '31px', '221px', '327px', 'auto', 'auto'],
+                                id: 'lijf',
+                                type: 'image',
                                 fill: ['rgba(0,0,0,0)', 'images/Pinguin1-01.svg', '0px', '0px']
                             },
                             {
-                                type: 'rect',
+                                rect: ['199px', '9px', '29', '40', 'auto', 'auto'],
                                 id: 'snavel',
                                 symbolName: 'Snavel',
-                                rect: ['199px', '9px', '29', '40', 'auto', 'auto']
+                                type: 'rect'
                             }]
                         }
                     ],
@@ -933,31 +933,84 @@
                     },
                     data: [
                         [
-                            "eid463",
-                            "location",
-                            0,
+                            "eid409",
+                            "scaleY",
                             6250,
-                            "easeOutCubic",
-                            "${Group6}",
-                            [[140.23, 321.47, 0, 0, 0, 0,0],[603.38, 216.81, 432.91, -23.6, 651.49, -35.51,476.31],[899.78, 228.4, 0, 0, 0, 0,773.26]]
-                        ],
-                        [
-                            "eid471",
-                            "location",
-                            6250,
-                            2864,
+                            750,
                             "linear",
                             "${Group6}",
-                            [[901.79, 234.4, 0, 0, 0, 0,0],[1352.64, 102.09, 47.25, -230.32, 77.75, -378.99,489.8],[824.38, -67.5, -126.28, -193.61, -168.42, -258.21,1059.6],[1247.71, -144.5, -119.15, -372.88, -78.91, -246.94,1520.01],[1040.21, -407.53, 0, 0, 0, 0,1858.51]]
+                            '1',
+                            '0.8721'
                         ],
                         [
-                            "eid482",
-                            "location",
-                            11500,
-                            3000,
+                            "eid499",
+                            "scaleY",
+                            7000,
+                            53,
+                            "linear",
+                            "${Group6}",
+                            '0.8721',
+                            '0.86306'
+                        ],
+                        [
+                            "eid503",
+                            "scaleY",
+                            7053,
+                            841,
+                            "linear",
+                            "${Group6}",
+                            '0.86306',
+                            '0.71965'
+                        ],
+                        [
+                            "eid505",
+                            "scaleY",
+                            7894,
+                            65,
+                            "linear",
+                            "${Group6}",
+                            '0.71965',
+                            '0.70857'
+                        ],
+                        [
+                            "eid511",
+                            "scaleY",
+                            7959,
+                            541,
+                            "linear",
+                            "${Group6}",
+                            '0.70857',
+                            '0.61626'
+                        ],
+                        [
+                            "eid520",
+                            "scaleY",
+                            8500,
+                            102,
+                            "linear",
+                            "${Group6}",
+                            '0.61626',
+                            '0.59886'
+                        ],
+                        [
+                            "eid513",
+                            "scaleY",
+                            8602,
+                            512,
+                            "linear",
+                            "${Group6}",
+                            '0.59886',
+                            '0.5116'
+                        ],
+                        [
+                            "eid443",
+                            "scaleY",
+                            9114,
+                            7636,
                             "easeInQuad",
                             "${Group6}",
-                            [[1040.22, -407.53, 0, 0, 0, 0,0],[742.95, 18.22, -330.91, 205.82, -447.13, 278.11,524.64],[74.21, 198.47, 0, 0, 0, 0,1218.74]]
+                            '0.5116',
+                            '1'
                         ],
                         [
                             "eid408",
@@ -1160,84 +1213,31 @@
                             '-9deg'
                         ],
                         [
-                            "eid409",
-                            "scaleY",
+                            "eid463",
+                            "location",
+                            0,
                             6250,
-                            750,
-                            "linear",
+                            "easeOutCubic",
                             "${Group6}",
-                            '1',
-                            '0.8721'
+                            [[140.23, 321.47, 0, 0, 0, 0,0],[603.38, 216.81, 432.91, -23.6, 651.49, -35.51,476.31],[899.78, 228.4, 0, 0, 0, 0,773.26]]
                         ],
                         [
-                            "eid499",
-                            "scaleY",
-                            7000,
-                            53,
+                            "eid471",
+                            "location",
+                            6250,
+                            2864,
                             "linear",
                             "${Group6}",
-                            '0.8721',
-                            '0.86306'
+                            [[901.79, 234.4, 0, 0, 0, 0,0],[1352.64, 102.09, 47.25, -230.32, 77.75, -378.99,489.8],[824.38, -67.5, -126.28, -193.61, -168.42, -258.21,1059.6],[1247.71, -144.5, -119.15, -372.88, -78.91, -246.94,1520.01],[1040.21, -407.53, 0, 0, 0, 0,1858.51]]
                         ],
                         [
-                            "eid503",
-                            "scaleY",
-                            7053,
-                            841,
-                            "linear",
-                            "${Group6}",
-                            '0.86306',
-                            '0.71965'
-                        ],
-                        [
-                            "eid505",
-                            "scaleY",
-                            7894,
-                            65,
-                            "linear",
-                            "${Group6}",
-                            '0.71965',
-                            '0.70857'
-                        ],
-                        [
-                            "eid511",
-                            "scaleY",
-                            7959,
-                            541,
-                            "linear",
-                            "${Group6}",
-                            '0.70857',
-                            '0.61626'
-                        ],
-                        [
-                            "eid520",
-                            "scaleY",
-                            8500,
-                            102,
-                            "linear",
-                            "${Group6}",
-                            '0.61626',
-                            '0.59886'
-                        ],
-                        [
-                            "eid513",
-                            "scaleY",
-                            8602,
-                            512,
-                            "linear",
-                            "${Group6}",
-                            '0.59886',
-                            '0.5116'
-                        ],
-                        [
-                            "eid443",
-                            "scaleY",
-                            9114,
-                            7636,
+                            "eid482",
+                            "location",
+                            11500,
+                            3000,
                             "easeInQuad",
                             "${Group6}",
-                            '0.5116',
-                            '1'
+                            [[1040.22, -407.53, 0, 0, 0, 0,0],[742.95, 18.22, -330.91, 205.82, -447.13, 278.11,524.64],[74.21, 198.47, 0, 0, 0, 0,1218.74]]
                         ]
                     ]
                 }
@@ -1252,37 +1252,37 @@
                 content: {
                     dom: [
                         {
-                            type: 'group',
-                            id: 'Group',
                             rect: ['-30px', '-5px', '256', '324', 'auto', 'auto'],
-                            autoOrient: false,
+                            id: 'Group',
                             transform: [[], ['329'], [], ['0.97972', '0.97972'], ['47.5941%', '99.7991%']],
+                            autoOrient: false,
+                            type: 'group',
                             c: [
                             {
-                                type: 'image',
-                                id: 'vleugel1',
                                 rect: ['0px', '31px', '75px', '126px', 'auto', 'auto'],
+                                id: 'vleugel1',
                                 transform: [[], ['-18'], [], [], ['97.7589%', '77.0768%']],
+                                type: 'image',
                                 fill: ['rgba(0,0,0,0)', 'images/Pinguin2_vleugel1-01.svg', '0px', '0px']
                             },
                             {
-                                type: 'image',
-                                id: 'vleugel2',
                                 rect: ['154px', '44px', '94px', '88px', 'auto', 'auto'],
+                                id: 'vleugel2',
                                 transform: [[], ['35'], [], [], ['12.4038%', '81.6595%']],
+                                type: 'image',
                                 fill: ['rgba(0,0,0,0)', 'images/Pinguin2_vleugel2-01.svg', '0px', '0px']
                             },
                             {
-                                rect: ['47px', '31px', '140px', '293px', 'auto', 'auto'],
-                                id: 'lijf',
                                 type: 'image',
+                                id: 'lijf',
+                                rect: ['47px', '31px', '140px', '293px', 'auto', 'auto'],
                                 fill: ['rgba(0,0,0,0)', 'images/Pinguin2-01.svg', '0px', '0px']
                             },
                             {
-                                rect: ['151px', '8px', null, null, 'auto', 'auto'],
+                                type: 'rect',
                                 id: 'snavel',
                                 symbolName: 'Snavel',
-                                type: 'rect'
+                                rect: ['151px', '8px', null, null, 'auto', 'auto']
                             }]
                         }
                     ],
@@ -1300,113 +1300,6 @@
                         "salto": 10500
                     },
                     data: [
-                        [
-                            "eid544",
-                            "scaleX",
-                            10500,
-                            1750,
-                            "easeOutSine",
-                            "${Group}",
-                            '1',
-                            '0.71'
-                        ],
-                        [
-                            "eid559",
-                            "scaleX",
-                            13394,
-                            7856,
-                            "easeOutSine",
-                            "${Group}",
-                            '0.71',
-                            '0.97972'
-                        ],
-                        [
-                            "eid660",
-                            "originY",
-                            8750,
-                            750,
-                            "linear",
-                            "${vleugel1}",
-                            '77.0768%',
-                            '50%'
-                        ],
-                        [
-                            "eid658",
-                            "originX",
-                            8750,
-                            750,
-                            "linear",
-                            "${vleugel1}",
-                            '97.7589%',
-                            '50%'
-                        ],
-                        [
-                            "eid527",
-                            "location",
-                            0,
-                            8091,
-                            "easeInOutQuad",
-                            "${Group}",
-                            [[4, 386.32, 0, 0, 0, 0,0],[492.01, 256.52, 218.84, -14.75, 684.98, -46.17,507.02],[809.84, 315.55, 226, 3.41, 235.96, 3.56,831.07],[1000.8, 224.85, 288.87, 42.2, 201.93, 29.5,1047.75],[1164.55, 314.46, 196.71, 87.41, 228.14, 101.38,1237.37],[1345.6, 264.31, 0, 0, 0, 0,1431.54]]
-                        ],
-                        [
-                            "eid540",
-                            "location",
-                            8091,
-                            2159,
-                            "easeInOutQuad",
-                            "${Group}",
-                            [[1345.61, 264.32, 0, 0, 0, 0,0],[1271.79, 283.39, -83.13, -3.09, -78.76, -2.92,76.61],[1211.6, 302.31, 0, 0, 0, 0,140.36]]
-                        ],
-                        [
-                            "eid543",
-                            "location",
-                            10500,
-                            10750,
-                            "easeOutSine",
-                            "${Group}",
-                            [[1211.6, 302.31, 0, 0, 0, 0,0],[1137.32, 546.63, 272.26, 171.86, 381.94, 241.1,300.3],[1577.81, 534.58, -480.33, -195.28, -384.93, -156.49,802.34],[1359, 290.33, 0, 0, 0, 0,1139.48]]
-                        ],
-                        [
-                            "eid545",
-                            "scaleY",
-                            10500,
-                            1750,
-                            "easeOutSine",
-                            "${Group}",
-                            '1',
-                            '0.71'
-                        ],
-                        [
-                            "eid560",
-                            "scaleY",
-                            13394,
-                            7856,
-                            "easeOutSine",
-                            "${Group}",
-                            '0.71',
-                            '0.97972'
-                        ],
-                        [
-                            "eid656",
-                            "rotateZ",
-                            8750,
-                            750,
-                            "linear",
-                            "${vleugel2}",
-                            '35deg',
-                            '0deg'
-                        ],
-                        [
-                            "eid662",
-                            "rotateZ",
-                            8750,
-                            750,
-                            "linear",
-                            "${vleugel1}",
-                            '-18deg',
-                            '0deg'
-                        ],
                         [
                             "eid528",
                             "rotateZ",
@@ -1536,6 +1429,113 @@
                             "${Group}",
                             '132deg',
                             '351deg'
+                        ],
+                        [
+                            "eid662",
+                            "rotateZ",
+                            8750,
+                            750,
+                            "linear",
+                            "${vleugel1}",
+                            '-18deg',
+                            '0deg'
+                        ],
+                        [
+                            "eid658",
+                            "originX",
+                            8750,
+                            750,
+                            "linear",
+                            "${vleugel1}",
+                            '97.7589%',
+                            '50%'
+                        ],
+                        [
+                            "eid527",
+                            "location",
+                            0,
+                            8091,
+                            "easeInOutQuad",
+                            "${Group}",
+                            [[4, 386.32, 0, 0, 0, 0,0],[492.01, 256.52, 218.84, -14.75, 684.98, -46.17,507.02],[809.84, 315.55, 226, 3.41, 235.96, 3.56,831.07],[1000.8, 224.85, 288.87, 42.2, 201.93, 29.5,1047.75],[1164.55, 314.46, 196.71, 87.41, 228.14, 101.38,1237.37],[1345.6, 264.31, 0, 0, 0, 0,1431.54]]
+                        ],
+                        [
+                            "eid540",
+                            "location",
+                            8091,
+                            2159,
+                            "easeInOutQuad",
+                            "${Group}",
+                            [[1345.61, 264.32, 0, 0, 0, 0,0],[1271.79, 283.39, -83.13, -3.09, -78.76, -2.92,76.61],[1211.6, 302.31, 0, 0, 0, 0,140.36]]
+                        ],
+                        [
+                            "eid543",
+                            "location",
+                            10500,
+                            10750,
+                            "easeOutSine",
+                            "${Group}",
+                            [[1211.6, 302.31, 0, 0, 0, 0,0],[1137.32, 546.63, 272.26, 171.86, 381.94, 241.1,300.3],[1577.81, 534.58, -480.33, -195.28, -384.93, -156.49,802.34],[1359, 290.33, 0, 0, 0, 0,1139.48]]
+                        ],
+                        [
+                            "eid545",
+                            "scaleY",
+                            10500,
+                            1750,
+                            "easeOutSine",
+                            "${Group}",
+                            '1',
+                            '0.71'
+                        ],
+                        [
+                            "eid560",
+                            "scaleY",
+                            13394,
+                            7856,
+                            "easeOutSine",
+                            "${Group}",
+                            '0.71',
+                            '0.97972'
+                        ],
+                        [
+                            "eid656",
+                            "rotateZ",
+                            8750,
+                            750,
+                            "linear",
+                            "${vleugel2}",
+                            '35deg',
+                            '0deg'
+                        ],
+                        [
+                            "eid660",
+                            "originY",
+                            8750,
+                            750,
+                            "linear",
+                            "${vleugel1}",
+                            '77.0768%',
+                            '50%'
+                        ],
+                        [
+                            "eid544",
+                            "scaleX",
+                            10500,
+                            1750,
+                            "easeOutSine",
+                            "${Group}",
+                            '1',
+                            '0.71'
+                        ],
+                        [
+                            "eid559",
+                            "scaleX",
+                            13394,
+                            7856,
+                            "easeOutSine",
+                            "${Group}",
+                            '0.71',
+                            '0.97972'
                         ]
                     ]
                 }
@@ -1550,35 +1550,35 @@
                 content: {
                     dom: [
                         {
-                            type: 'group',
-                            id: 'Group9',
                             rect: ['-2075px', '254px', '272', '316', 'auto', 'auto'],
+                            id: 'Group9',
+                            type: 'group',
                             transform: [[], ['-8'], [], [], ['42.2957%', '87.9851%']],
                             c: [
                             {
-                                rect: ['20px', '30px', '185px', '286px', 'auto', 'auto'],
-                                id: 'lijf',
                                 type: 'image',
+                                id: 'lijf',
+                                rect: ['20px', '30px', '185px', '286px', 'auto', 'auto'],
                                 fill: ['rgba(0,0,0,0)', 'images/Pinguin3-01.svg', '0px', '0px']
                             },
                             {
-                                rect: ['137px', '3px', null, null, 'auto', 'auto'],
+                                type: 'rect',
                                 id: 'snavel',
                                 symbolName: 'Snavel',
-                                type: 'rect'
+                                rect: ['137px', '3px', null, null, 'auto', 'auto']
                             },
                             {
-                                type: 'image',
-                                id: 'vleugel1',
                                 rect: ['0px', '0px', '85px', '144px', 'auto', 'auto'],
+                                id: 'vleugel1',
                                 transform: [[], [], [], [], ['92.1941%', '89.7384%']],
+                                type: 'image',
                                 fill: ['rgba(0,0,0,0)', 'images/Pinguin3_vleugel1-01.svg', '0px', '0px']
                             },
                             {
-                                type: 'image',
-                                id: 'vleugel2',
                                 rect: ['151px', '30px', '121px', '103px', 'auto', 'auto'],
+                                id: 'vleugel2',
                                 transform: [[], [], [], [], ['0%', '99.9999%']],
+                                type: 'image',
                                 fill: ['rgba(0,0,0,0)', 'images/Pinguin3_vleugel2-01.svg', '0px', '0px']
                             }]
                         }
@@ -1764,28 +1764,28 @@
                 content: {
                     dom: [
                         {
-                            rect: ['0px', '0px', '735px', '201px', 'auto', 'auto'],
-                            id: 'Spandoek-01',
                             type: 'image',
+                            id: 'Spandoek-01',
+                            rect: ['0px', '0px', '735px', '201px', 'auto', 'auto'],
                             fill: ['rgba(0,0,0,0)', 'images/Spandoek-01.svg', '0px', '0px']
                         },
                         {
-                            rect: ['210px', '60px', '297px', '76px', 'auto', 'auto'],
-                            id: 'Siene_wit-01',
                             type: 'image',
+                            id: 'Siene_wit-01',
+                            rect: ['210px', '60px', '297px', '76px', 'auto', 'auto'],
                             fill: ['rgba(0,0,0,0)', 'images/Siene_wit-01.svg', '0px', '0px']
                         },
                         {
-                            rect: ['210px', '60px', '296px', '75px', 'auto', 'auto'],
-                            id: 'Siene_oranje-01',
                             type: 'image',
+                            id: 'Siene_oranje-01',
+                            rect: ['210px', '60px', '296px', '75px', 'auto', 'auto'],
                             fill: ['rgba(0,0,0,0)', 'images/Siene_oranje-01.svg', '0px', '0px']
                         },
                         {
-                            type: 'image',
-                            display: 'none',
                             rect: ['202px', '58px', '312px', '79px', 'auto', 'auto'],
                             id: 'Siene_geel-01',
+                            type: 'image',
+                            display: 'none',
                             fill: ['rgba(0,0,0,0)', 'images/Siene_geel-01.svg', '0px', '0px']
                         }
                     ],
@@ -2415,23 +2415,23 @@
                 content: {
                     dom: [
                         {
-                            transform: [[], ['10'], [0, 0, 0], [1, 1, 1]],
-                            id: 'Vogel1_vleugel2-01',
                             type: 'image',
+                            id: 'Vogel1_vleugel2-01',
                             rect: ['104px', '36px', '155px', '93px', 'auto', 'auto'],
+                            transform: [[], ['10'], [0, 0, 0], [1, 1, 1]],
                             fill: ['rgba(0,0,0,0)', 'images/Vogel1_vleugel2-01.svg', '0px', '0px']
                         },
                         {
-                            transform: [[], ['4'], [0, 0, 0], [1, 1, 1]],
-                            id: 'Vogel1-01',
                             type: 'image',
+                            id: 'Vogel1-01',
                             rect: ['0px', '67px', '220px', '90px', 'auto', 'auto'],
+                            transform: [[], ['4'], [0, 0, 0], [1, 1, 1]],
                             fill: ['rgba(0,0,0,0)', 'images/Vogel1-01.svg', '0px', '0px']
                         },
                         {
-                            rect: ['49px', '0px', '106px', '91px', 'auto', 'auto'],
-                            id: 'Vogel1_Vleugel1-01',
                             type: 'image',
+                            id: 'Vogel1_Vleugel1-01',
+                            rect: ['49px', '0px', '106px', '91px', 'auto', 'auto'],
                             fill: ['rgba(0,0,0,0)', 'images/Vogel1_Vleugel1-01.svg', '0px', '0px']
                         }
                     ],
@@ -2466,14 +2466,14 @@
                             '20px'
                         ],
                         [
-                            "eid104",
-                            "scaleY",
+                            "eid111",
+                            "top",
                             0,
                             1000,
                             "linear",
-                            "${Vogel1_Vleugel1-01}",
-                            '1',
-                            '0.70831'
+                            "${Vogel1_vleugel2-01}",
+                            '14px',
+                            '36px'
                         ],
                         [
                             "eid112",
@@ -2486,6 +2486,16 @@
                             '104px'
                         ],
                         [
+                            "eid104",
+                            "scaleY",
+                            0,
+                            1000,
+                            "linear",
+                            "${Vogel1_Vleugel1-01}",
+                            '1',
+                            '0.70831'
+                        ],
+                        [
                             "eid110",
                             "rotateZ",
                             0,
@@ -2494,16 +2504,6 @@
                             "${Vogel1_vleugel2-01}",
                             '-12deg',
                             '10deg'
-                        ],
-                        [
-                            "eid111",
-                            "top",
-                            0,
-                            1000,
-                            "linear",
-                            "${Vogel1_vleugel2-01}",
-                            '14px',
-                            '36px'
                         ]
                     ]
                 }
@@ -2518,23 +2518,23 @@
                 content: {
                     dom: [
                         {
-                            transform: [[], ['-9'], [], ['1', '0.66317']],
-                            id: 'Vogel2_Vleugel2-01',
                             type: 'image',
+                            id: 'Vogel2_Vleugel2-01',
                             rect: ['2px', '12px', '139px', '115px', 'auto', 'auto'],
+                            transform: [[], ['-9'], [], ['1', '0.66317']],
                             fill: ['rgba(0,0,0,0)', 'images/Vogel2_Vleugel2-01.svg', '0px', '0px']
                         },
                         {
-                            rect: ['61px', '53px', '194px', '94px', 'auto', 'auto'],
-                            id: 'Vogel2-01',
                             type: 'image',
+                            id: 'Vogel2-01',
+                            rect: ['61px', '53px', '194px', '94px', 'auto', 'auto'],
                             fill: ['rgba(0,0,0,0)', 'images/Vogel2-01.svg', '0px', '0px']
                         },
                         {
-                            transform: [[], [], [], ['1', '0.5']],
-                            id: 'Vogel2_Vleugel1-01',
                             type: 'image',
+                            id: 'Vogel2_Vleugel1-01',
                             rect: ['121px', '0px', '100px', '83px', 'auto', 'auto'],
+                            transform: [[], [], [], ['1', '0.5']],
                             fill: ['rgba(0,0,0,0)', 'images/Vogel2_Vleugel1-01.svg', '0px', '0px']
                         }
                     ],
@@ -2579,16 +2579,6 @@
                             '2px'
                         ],
                         [
-                            "eid113",
-                            "scaleY",
-                            0,
-                            1000,
-                            "linear",
-                            "${Vogel2_Vleugel1-01}",
-                            '1',
-                            '0.5'
-                        ],
-                        [
                             "eid114",
                             "top",
                             0,
@@ -2607,6 +2597,16 @@
                             "${Vogel2_Vleugel2-01}",
                             '1',
                             '0.80007'
+                        ],
+                        [
+                            "eid113",
+                            "scaleY",
+                            0,
+                            1000,
+                            "linear",
+                            "${Vogel2_Vleugel1-01}",
+                            '1',
+                            '0.5'
                         ],
                         [
                             "eid125",
@@ -2631,10 +2631,10 @@
                 content: {
                     dom: [
                         {
-                            transform: [[], ['-107'], [], [], ['25.0429%', '195.0992%']],
-                            id: 'Vis1-01',
                             type: 'image',
+                            id: 'Vis1-01',
                             rect: ['1500px', '-153px', '218px', '194px', 'auto', 'auto'],
+                            transform: [[], ['-107'], [], [], ['25.0429%', '195.0992%']],
                             fill: ['rgba(0,0,0,0)', 'images/Vis1-01.svg', '0px', '0px']
                         }
                     ],
@@ -2721,22 +2721,22 @@
                 content: {
                     dom: [
                         {
-                            rect: ['637px', '1px', null, null, 'auto', 'auto'],
+                            type: 'rect',
                             id: 'Vogel2',
                             symbolName: 'Vogel2',
-                            type: 'rect'
+                            rect: ['637px', '1px', null, null, 'auto', 'auto']
                         },
                         {
-                            rect: ['0px', '-13px', null, null, 'auto', 'auto'],
+                            type: 'rect',
                             id: 'Vogel1',
                             symbolName: 'Vogel1',
-                            type: 'rect'
+                            rect: ['0px', '-13px', null, null, 'auto', 'auto']
                         },
                         {
-                            rect: ['103px', '68px', '735', '201', 'auto', 'auto'],
+                            type: 'rect',
                             id: 'Spandoek',
                             symbolName: 'Spandoek',
-                            type: 'rect'
+                            rect: ['103px', '68px', '735', '201', 'auto', 'auto']
                         }
                     ],
                     style: {
@@ -2763,12 +2763,12 @@
                 content: {
                     dom: [
                         {
-                            transform: [[], ['8'], [0, 0, 0], [1, 1, 1]],
                             rect: ['9px', '427px', '886', '273', 'auto', 'auto'],
+                            type: 'rect',
                             id: 'Spandoek_Vogels',
                             symbolName: 'Spandoek_Vogels',
                             cursor: 'pointer',
-                            type: 'rect'
+                            transform: [[], ['8'], [0, 0, 0], [1, 1, 1]]
                         }
                     ],
                     style: {
@@ -2864,60 +2864,60 @@
                 content: {
                     dom: [
                         {
-                            transform: [[], [], [], ['0.43', '0.43']],
                             rect: ['236px', '-460px', '42px', '47px', 'auto', 'auto'],
-                            display: 'none',
+                            transform: [[], [], [], ['0.43', '0.43']],
                             id: 'hartje',
                             type: 'image',
+                            display: 'none',
                             fill: ['rgba(0,0,0,0)', 'images/Hartje-01.svg', '0px', '0px']
                         },
                         {
-                            type: 'image',
                             rect: ['240px', '116px', '42px', '47px', 'auto', 'auto'],
                             transform: [[], [], [], ['0.49204', '0.49204']],
+                            type: 'image',
                             id: 'hartje2',
                             display: 'none',
                             autoOrient: 'true',
                             fill: ['rgba(0,0,0,0)', 'images/Hartje-01.svg', '0px', '0px']
                         },
                         {
-                            type: 'image',
                             rect: ['240px', '116px', '42px', '47px', 'auto', 'auto'],
                             transform: [[], [], [], ['0.49204', '0.49204']],
+                            type: 'image',
                             id: 'hartje3',
                             display: 'none',
                             autoOrient: 'true',
                             fill: ['rgba(0,0,0,0)', 'images/Hartje-01.svg', '0px', '0px']
                         },
                         {
-                            type: 'image',
                             rect: ['240px', '116px', '42px', '47px', 'auto', 'auto'],
                             transform: [[], [], [], ['0.49204', '0.49204']],
+                            type: 'image',
                             id: 'hartje4',
                             display: 'none',
                             autoOrient: 'true',
                             fill: ['rgba(0,0,0,0)', 'images/Hartje-01.svg', '0px', '0px']
                         },
                         {
-                            type: 'image',
                             rect: ['261px', '139px', '42px', '47px', 'auto', 'auto'],
                             transform: [[], [], [], ['0.49204', '0.49204']],
+                            type: 'image',
                             id: 'hartje5',
                             display: 'none',
                             autoOrient: 'true',
                             fill: ['rgba(0,0,0,0)', 'images/Hartje-01.svg', '0px', '0px']
                         },
                         {
-                            rect: ['250px', '77px', '146', '213', 'auto', 'auto'],
+                            type: 'rect',
                             id: 'ijsbeer2',
                             symbolName: 'IJsbeer2',
-                            type: 'rect'
+                            rect: ['250px', '77px', '146', '213', 'auto', 'auto']
                         },
                         {
-                            rect: ['41px', '78px', '134', '229', 'auto', 'auto'],
+                            type: 'rect',
                             id: 'ijsbeer1',
                             symbolName: 'IJsbeer1',
-                            type: 'rect'
+                            rect: ['41px', '78px', '134', '229', 'auto', 'auto']
                         }
                     ],
                     style: {
@@ -3014,14 +3014,24 @@
                             '2.21993'
                         ],
                         [
-                            "eid702",
-                            "scaleX",
-                            8603,
+                            "eid704",
+                            "display",
+                            0,
                             0,
                             "easeOutCubic",
-                            "${hartje4}",
-                            '0.49204',
-                            '0.49204'
+                            "${hartje3}",
+                            'none',
+                            'none'
+                        ],
+                        [
+                            "eid707",
+                            "display",
+                            8273,
+                            0,
+                            "easeOutCubic",
+                            "${hartje3}",
+                            'none',
+                            'block'
                         ],
                         [
                             "eid709",
@@ -3033,28 +3043,8 @@
                             [[260.67, 139.17, 0, 0, 0, 0,0],[375.33, 55.67, 71.28, -227.44, 64.37, -205.39,148.48],[347.12, -168.7, -77.76, -342.12, -12.13, -53.37,377.43],[433.8, -390.63, 0, 0, 0, 0,625.24]]
                         ],
                         [
-                            "eid244",
-                            "left",
-                            0,
-                            1847,
-                            "linear",
-                            "${ijsbeer1}",
-                            '5px',
-                            '22px'
-                        ],
-                        [
-                            "eid266",
-                            "left",
-                            3500,
-                            275,
-                            "linear",
-                            "${ijsbeer1}",
-                            '22px',
-                            '41px'
-                        ],
-                        [
-                            "eid693",
-                            "scaleY",
+                            "eid692",
+                            "scaleX",
                             8000,
                             0,
                             "easeOutCubic",
@@ -3063,33 +3053,43 @@
                             '0.49204'
                         ],
                         [
-                            "eid705",
-                            "display",
+                            "eid200",
+                            "top",
                             0,
-                            0,
-                            "easeOutCubic",
-                            "${hartje2}",
-                            'none',
-                            'none'
+                            1847,
+                            "linear",
+                            "${ijsbeer2}",
+                            '555px',
+                            '39px'
                         ],
                         [
-                            "eid706",
-                            "display",
-                            8000,
-                            0,
-                            "easeOutCubic",
-                            "${hartje2}",
-                            'none',
-                            'block'
+                            "eid260",
+                            "top",
+                            3500,
+                            275,
+                            "linear",
+                            "${ijsbeer2}",
+                            '39px',
+                            '77px'
                         ],
                         [
-                            "eid700",
+                            "eid273",
+                            "scaleX",
+                            4102,
+                            3148,
+                            "linear",
+                            "${hartje}",
+                            '0.43',
+                            '2.22'
+                        ],
+                        [
+                            "eid691",
                             "location",
-                            8603,
-                            2750,
+                            8000,
+                            3353,
                             "easeOutQuad",
-                            "${hartje4}",
-                            [[260.67, 139.17, 0, 0, 0, 0,0],[361.12, -49.59, 6.93, -462.62, 3.51, -234.05,217.19],[268.47, -381.3, 0, 0, 0, 0,564.58]]
+                            "${hartje2}",
+                            [[261, 139.17, 0, 0, 0, 0,0],[219.5, 82.97, -127.4, -121.46, -126.37, -120.48,70.76],[83.29, -22.31, -115.75, -358.68, -68.32, -211.7,248.11],[182, -384.5, 0, 0, 0, 0,630.97]]
                         ],
                         [
                             "eid271",
@@ -3191,47 +3191,37 @@
                             '250px'
                         ],
                         [
-                            "eid691",
+                            "eid700",
                             "location",
-                            8000,
-                            3353,
+                            8603,
+                            2750,
                             "easeOutQuad",
-                            "${hartje2}",
-                            [[261, 139.17, 0, 0, 0, 0,0],[219.5, 82.97, -127.4, -121.46, -126.37, -120.48,70.76],[83.29, -22.31, -115.75, -358.68, -68.32, -211.7,248.11],[182, -384.5, 0, 0, 0, 0,630.97]]
+                            "${hartje4}",
+                            [[260.67, 139.17, 0, 0, 0, 0,0],[361.12, -49.59, 6.93, -462.62, 3.51, -234.05,217.19],[268.47, -381.3, 0, 0, 0, 0,564.58]]
                         ],
                         [
-                            "eid273",
-                            "scaleX",
-                            4102,
-                            3148,
-                            "linear",
-                            "${hartje}",
-                            '0.43',
-                            '2.22'
-                        ],
-                        [
-                            "eid200",
-                            "top",
+                            "eid705",
+                            "display",
                             0,
-                            1847,
-                            "linear",
-                            "${ijsbeer2}",
-                            '555px',
-                            '39px'
+                            0,
+                            "easeOutCubic",
+                            "${hartje2}",
+                            'none',
+                            'none'
                         ],
                         [
-                            "eid260",
-                            "top",
-                            3500,
-                            275,
-                            "linear",
-                            "${ijsbeer2}",
-                            '39px',
-                            '77px'
+                            "eid706",
+                            "display",
+                            8000,
+                            0,
+                            "easeOutCubic",
+                            "${hartje2}",
+                            'none',
+                            'block'
                         ],
                         [
-                            "eid692",
-                            "scaleX",
+                            "eid693",
+                            "scaleY",
                             8000,
                             0,
                             "easeOutCubic",
@@ -3240,24 +3230,34 @@
                             '0.49204'
                         ],
                         [
-                            "eid704",
-                            "display",
+                            "eid244",
+                            "left",
                             0,
-                            0,
-                            "easeOutCubic",
-                            "${hartje3}",
-                            'none',
-                            'none'
+                            1847,
+                            "linear",
+                            "${ijsbeer1}",
+                            '5px',
+                            '22px'
                         ],
                         [
-                            "eid707",
-                            "display",
-                            8273,
+                            "eid266",
+                            "left",
+                            3500,
+                            275,
+                            "linear",
+                            "${ijsbeer1}",
+                            '22px',
+                            '41px'
+                        ],
+                        [
+                            "eid702",
+                            "scaleX",
+                            8603,
                             0,
                             "easeOutCubic",
-                            "${hartje3}",
-                            'none',
-                            'block'
+                            "${hartje4}",
+                            '0.49204',
+                            '0.49204'
                         ],
                             [ "eid1090", "trigger", 0, function executeSymbolFunction(e, data) { this._executeSymbolAction(e, data); }, ['play', '${ijsbeer2}', [] ] ],
                             [ "eid1091", "trigger", 0, function executeSymbolFunction(e, data) { this._executeSymbolAction(e, data); }, ['play', '${ijsbeer1}', [] ] ],
@@ -3276,20 +3276,20 @@
                 content: {
                     dom: [
                         {
-                            type: 'group',
-                            id: 'Group',
                             rect: ['-1788px', '0', '3840', '131', 'auto', 'auto'],
+                            id: 'Group',
+                            type: 'group',
                             c: [
                             {
-                                type: 'image',
-                                id: 'Golf1-01',
                                 rect: ['1794px', 'auto', '1920px', '131px', 'auto', '0px'],
+                                id: 'Golf1-01',
+                                type: 'image',
                                 fill: ['rgba(0,0,0,0)', 'images/Golf1-01.svg', '0px', '0px']
                             },
                             {
-                                type: 'image',
-                                id: 'Golf1-01Copy',
                                 rect: ['0px', 'auto', '1920px', '131px', 'auto', '0px'],
+                                id: 'Golf1-01Copy',
+                                type: 'image',
                                 fill: ['rgba(0,0,0,0)', 'images/Golf1-01.svg', '0px', '0px']
                             }]
                         }
@@ -3327,20 +3327,20 @@
                 content: {
                     dom: [
                         {
-                            type: 'group',
-                            id: 'Group',
                             rect: ['-1804px', '0', '3840', '218', 'auto', 'auto'],
+                            id: 'Group',
+                            type: 'group',
                             c: [
                             {
-                                type: 'image',
-                                id: 'Golf2-01',
                                 rect: ['1810px', 'auto', '1920px', '218px', 'auto', '0px'],
+                                id: 'Golf2-01',
+                                type: 'image',
                                 fill: ['rgba(0,0,0,0)', 'images/Golf2-01.svg', '0px', '0px']
                             },
                             {
-                                type: 'image',
-                                id: 'Golf2-01Copy',
                                 rect: ['0px', 'auto', '1920px', '218px', 'auto', '0px'],
+                                id: 'Golf2-01Copy',
+                                type: 'image',
                                 fill: ['rgba(0,0,0,0)', 'images/Golf2-01.svg', '0px', '0px']
                             }]
                         }
@@ -3378,34 +3378,34 @@
                 content: {
                     dom: [
                         {
-                            type: 'rect',
                             transform: [[], [], [], [], ['67.4746%', '99.399%']],
+                            rect: ['1859px', '46px', '185', '286', 'auto', 'auto'],
                             id: 'pinguin3',
                             symbolName: 'Pinguin3',
                             cursor: 'pointer',
-                            rect: ['1859px', '46px', '185', '286', 'auto', 'auto']
+                            type: 'rect'
                         },
                         {
-                            type: 'rect',
                             transform: [[], [], [], [], ['69.5089%', '97.9148%']],
+                            rect: ['200px', '73px', '140', '293', 'auto', 'auto'],
                             id: 'pinguin2',
                             symbolName: 'Pinguin2',
                             cursor: 'pointer',
-                            rect: ['200px', '73px', '140', '293', 'auto', 'auto']
+                            type: 'rect'
                         },
                         {
-                            type: 'rect',
                             transform: [[], [], [], [], ['68.6085%', '98.3897%']],
+                            rect: ['103px', '95px', '221', '327', 'auto', 'auto'],
                             id: 'pinguin1',
                             symbolName: 'Pinguin1',
                             cursor: 'pointer',
-                            rect: ['103px', '95px', '221', '327', 'auto', 'auto']
+                            type: 'rect'
                         },
                         {
-                            rect: ['2506px', '-80px', '150px', '112px', 'auto', 'auto'],
+                            type: 'rect',
                             id: 'hack_rectangle',
                             stroke: [0, 'rgb(0, 0, 0)', 'none'],
-                            type: 'rect',
+                            rect: ['2506px', '-80px', '150px', '112px', 'auto', 'auto'],
                             fill: ['rgba(192,192,192,1)']
                         }
                     ],
@@ -3462,9 +3462,9 @@
                         {
                             rect: ['0px', '0px', '6px', '6px', 'auto', 'auto'],
                             borderRadius: ['50%', '50%', '50%', '50%'],
-                            opacity: '1',
-                            id: 'Ellipse',
                             stroke: [0, 'rgba(0,0,0,1)', 'none'],
+                            id: 'Ellipse',
+                            opacity: '1',
                             type: 'ellipse',
                             fill: ['rgba(255,255,255,1.00)']
                         }
@@ -3502,27 +3502,27 @@
                 content: {
                     dom: [
                         {
-                            type: 'group',
-                            id: 'Group3',
                             rect: ['-1335px', '-131', '3281', '748', 'auto', 'auto'],
+                            id: 'Group3',
+                            type: 'group',
                             c: [
                             {
-                                type: 'image',
-                                id: 'Wolk3-01',
                                 rect: ['806px', 'auto', '1143px', '627px', 'auto', '0px'],
+                                id: 'Wolk3-01',
+                                type: 'image',
                                 fill: ['rgba(0,0,0,0)', 'images/Wolk3-01.svg', '0px', '0px']
                             },
                             {
-                                type: 'image',
-                                id: 'Wolk2-01',
                                 rect: ['auto', 'auto', '993px', '639px', '0px', '0px'],
+                                id: 'Wolk2-01',
+                                type: 'image',
                                 fill: ['rgba(0,0,0,0)', 'images/Wolk2-01.svg', '0px', '0px']
                             },
                             {
-                                type: 'image',
-                                id: 'Wolk2-01Copy3',
                                 rect: ['auto', 'auto', '993px', '639px', '2271px', '53px'],
+                                id: 'Wolk2-01Copy3',
                                 transform: [[], [], [], ['-1.03116', '1.17008']],
+                                type: 'image',
                                 fill: ['rgba(0,0,0,0)', 'images/Wolk2-01.svg', '0px', '0px']
                             }]
                         }
@@ -3560,20 +3560,20 @@
                 content: {
                     dom: [
                         {
-                            type: 'group',
-                            id: 'Group2',
                             rect: ['-1860', '0', '3780', '468', 'auto', 'auto'],
+                            id: 'Group2',
+                            type: 'group',
                             c: [
                             {
-                                type: 'image',
-                                id: 'Wolk1-01',
                                 rect: ['1860px', 'auto', '1920px', '463px', 'auto', '5px'],
+                                id: 'Wolk1-01',
+                                type: 'image',
                                 fill: ['rgba(0,0,0,0)', 'images/Wolk1-01.svg', '0px', '0px']
                             },
                             {
-                                type: 'image',
-                                id: 'Wolk1-01Copy',
                                 rect: ['0px', 'auto', '1920px', '463px', 'auto', '0px'],
+                                id: 'Wolk1-01Copy',
+                                type: 'image',
                                 fill: ['rgba(0,0,0,0)', 'images/Wolk1-01.svg', '0px', '0px']
                             }]
                         }
@@ -3611,10 +3611,10 @@
                 content: {
                     dom: [
                         {
-                            transform: [[], [], [], [], ['0.1628%', '88.3516%']],
-                            id: 'Pinguin1_vleugel2-01',
                             type: 'image',
+                            id: 'Pinguin1_vleugel2-01',
                             rect: ['-19px', '-15px', '147px', '113px', 'auto', 'auto'],
+                            transform: [[], [], [], [], ['0.1628%', '88.3516%']],
                             fill: ['rgba(0,0,0,0)', 'images/Pinguin1_vleugel2-01.svg', '0px', '0px']
                         }
                     ],
@@ -3661,16 +3661,16 @@
                 content: {
                     dom: [
                         {
-                            rect: ['-172', '-122', '273', '263', 'auto', 'auto'],
-                            id: 'Group',
                             type: 'group',
+                            id: 'Group',
+                            rect: ['-172', '-122', '273', '263', 'auto', 'auto'],
                             transform: [[], [], [], [], ['84.3177%', '92.134%']],
                             c: [
                             {
-                                transform: [[], [], [], [], ['89.0416%', '88.9738%']],
-                                id: 'Pinguin1_vleugel1-01',
                                 type: 'image',
+                                id: 'Pinguin1_vleugel1-01',
                                 rect: ['172px', '122px', '75px', '141px', 'auto', 'auto'],
+                                transform: [[], [], [], [], ['89.0416%', '88.9738%']],
                                 fill: ['rgba(0,0,0,0)', 'images/Pinguin1_vleugel1-01.svg', '0px', '0px']
                             }]
                         }
@@ -3738,17 +3738,17 @@
                 content: {
                     dom: [
                         {
-                            rect: ['0px', '0px', '29px', '40px', 'auto', 'auto'],
-                            id: 'snavel',
                             type: 'image',
                             display: 'block',
+                            rect: ['0px', '0px', '29px', '40px', 'auto', 'auto'],
+                            id: 'snavel',
                             fill: ['rgba(0,0,0,0)', 'images/snavel.svg', '0px', '0px']
                         },
                         {
-                            rect: ['1px', '-7px', '29px', '46px', 'auto', 'auto'],
-                            id: 'toeter1',
                             type: 'image',
                             display: 'none',
+                            rect: ['1px', '-7px', '29px', '46px', 'auto', 'auto'],
+                            id: 'toeter1',
                             fill: ['rgba(0,0,0,0)', 'images/toeter1.svg', '0px', '0px']
                         }
                     ],
@@ -3880,9 +3880,9 @@
                 content: {
                     dom: [
                         {
-                            type: 'image',
-                            id: 'bergen',
                             rect: ['-2px', '3px', '1920px', '725px', 'auto', 'auto'],
+                            id: 'bergen',
+                            type: 'image',
                             fill: ['rgba(0,0,0,0)', 'images/Bergen-01.svg', '0px', '0px']
                         },
                         {
@@ -3939,29 +3939,30 @@
                 content: {
                     dom: [
                         {
-                            rect: ['1408px', '38px', '329px', '301px', 'auto', 'auto'],
-                            transform: [[], [], [], ['0.21595', '0.21595']],
-                            filter: [0, 360, 1, 1, 0, 0, 0, 0, 'rgba(0,0,0,0)', 0, 0, 0],
+                            type: 'image',
                             id: 'vuurwerk8',
                             opacity: '0',
-                            type: 'image',
+                            rect: ['1408px', '38px', '329px', '301px', 'auto', 'auto'],
+                            filter: [0, 360, 1, 1, 0, 0, 0, 0, 'rgba(0,0,0,0)', 0, 0, 0],
+                            fi: [0, 360, 1, 1, 0, 0, 0, 0, 'rgba(0,0,0,0)', 0, 0, 0],
+                            transform: [[], [], [], ['0.21595', '0.21595']],
                             fill: ['rgba(0,0,0,0)', 'images/vuurwerk.svg', '0px', '0px']
                         },
                         {
-                            transform: [[], [], [], ['0.18541', '0.18541']],
-                            rect: ['878px', '-222px', '329px', '301px', 'auto', 'auto'],
                             type: 'image',
-                            filter: [0, 131.94745060783, 1, 1, 0, 0, 0, 0, 'rgba(0,0,0,0)', 0, 0, 0],
                             id: 'vuurwerk9',
                             opacity: '0',
+                            rect: ['878px', '-222px', '329px', '301px', 'auto', 'auto'],
+                            fi: [0, 131.94745060783, 1, 1, 0, 0, 0, 0, 'rgba(0,0,0,0)', 0, 0, 0],
+                            filter: [0, 131.94745060783, 1, 1, 0, 0, 0, 0, 'rgba(0,0,0,0)', 0, 0, 0],
                             display: 'block',
+                            transform: [[], [], [], ['0.18541', '0.18541']],
                             fill: ['rgba(0,0,0,0)', 'images/vuurwerk.svg', '0px', '0px']
                         }
                     ],
                     style: {
                         '${symbolSelector}': {
-                            isStage: 'true',
-                            rect: [undefined, undefined, '1920px', '1080px']
+                            rect: [null, null, '1920px', '1080px']
                         }
                     }
                 },
@@ -4240,64 +4241,64 @@
                             '878px'
                         ],
                         [
-                            "eid787",
-                            "opacity",
+                            "eid785",
+                            "scaleY",
                             0,
-                            402,
+                            962,
                             "linear",
                             "${vuurwerk8}",
-                            '0',
+                            '0.21594',
                             '1'
                         ],
                         [
-                            "eid789",
-                            "opacity",
-                            1649,
-                            601,
+                            "eid767",
+                            "scaleY",
+                            962,
+                            1288,
                             "linear",
                             "${vuurwerk8}",
                             '1',
-                            '0'
+                            '0.21595'
                         ],
                         [
-                            "eid806",
-                            "opacity",
+                            "eid808",
+                            "scaleY",
                             2544,
-                            385,
+                            923,
                             "linear",
                             "${vuurwerk8}",
-                            '0',
-                            '1'
+                            '0.21594',
+                            '1.5177'
                         ],
                         [
-                            "eid807",
-                            "opacity",
-                            4126,
-                            576,
+                            "eid809",
+                            "scaleY",
+                            3467,
+                            1236,
                             "linear",
                             "${vuurwerk8}",
-                            '1',
-                            '0'
+                            '1.5177',
+                            '0.21595'
                         ],
                         [
-                            "eid865",
-                            "opacity",
+                            "eid862",
+                            "scaleY",
                             4876,
-                            278,
+                            666,
                             "linear",
                             "${vuurwerk8}",
-                            '0',
-                            '1'
+                            '0.21594',
+                            '1.31769'
                         ],
                         [
-                            "eid866",
-                            "opacity",
-                            6017,
-                            416,
+                            "eid863",
+                            "scaleY",
+                            5542,
+                            891,
                             "linear",
                             "${vuurwerk8}",
-                            '1',
-                            '0'
+                            '1.31769',
+                            '0.21595'
                         ],
                         [
                             "eid803",
@@ -4360,36 +4361,6 @@
                             '360deg'
                         ],
                         [
-                            "eid851",
-                            "top",
-                            1335,
-                            0,
-                            "linear",
-                            "${vuurwerk9}",
-                            '138px',
-                            '138px'
-                        ],
-                        [
-                            "eid849",
-                            "top",
-                            3750,
-                            0,
-                            "linear",
-                            "${vuurwerk9}",
-                            '138px',
-                            '-130px'
-                        ],
-                        [
-                            "eid852",
-                            "top",
-                            5500,
-                            0,
-                            "linear",
-                            "${vuurwerk9}",
-                            '-130px',
-                            '-222px'
-                        ],
-                        [
                             "eid791",
                             "opacity",
                             1335,
@@ -4450,6 +4421,36 @@
                             '0'
                         ],
                         [
+                            "eid851",
+                            "top",
+                            1335,
+                            0,
+                            "linear",
+                            "${vuurwerk9}",
+                            '138px',
+                            '138px'
+                        ],
+                        [
+                            "eid849",
+                            "top",
+                            3750,
+                            0,
+                            "linear",
+                            "${vuurwerk9}",
+                            '138px',
+                            '-130px'
+                        ],
+                        [
+                            "eid852",
+                            "top",
+                            5500,
+                            0,
+                            "linear",
+                            "${vuurwerk9}",
+                            '-130px',
+                            '-222px'
+                        ],
+                        [
                             "eid770",
                             "display",
                             0,
@@ -4470,64 +4471,64 @@
                             'block'
                         ],
                         [
-                            "eid785",
-                            "scaleY",
+                            "eid787",
+                            "opacity",
                             0,
-                            962,
+                            402,
                             "linear",
                             "${vuurwerk8}",
-                            '0.21594',
+                            '0',
                             '1'
                         ],
                         [
-                            "eid767",
-                            "scaleY",
-                            962,
-                            1288,
+                            "eid789",
+                            "opacity",
+                            1649,
+                            601,
                             "linear",
                             "${vuurwerk8}",
                             '1',
-                            '0.21595'
+                            '0'
                         ],
                         [
-                            "eid808",
-                            "scaleY",
+                            "eid806",
+                            "opacity",
                             2544,
-                            923,
+                            385,
                             "linear",
                             "${vuurwerk8}",
-                            '0.21594',
-                            '1.5177'
+                            '0',
+                            '1'
                         ],
                         [
-                            "eid809",
-                            "scaleY",
-                            3467,
-                            1236,
+                            "eid807",
+                            "opacity",
+                            4126,
+                            576,
                             "linear",
                             "${vuurwerk8}",
-                            '1.5177',
-                            '0.21595'
+                            '1',
+                            '0'
                         ],
                         [
-                            "eid862",
-                            "scaleY",
+                            "eid865",
+                            "opacity",
                             4876,
-                            666,
+                            278,
                             "linear",
                             "${vuurwerk8}",
-                            '0.21594',
-                            '1.31769'
+                            '0',
+                            '1'
                         ],
                         [
-                            "eid863",
-                            "scaleY",
-                            5542,
-                            891,
+                            "eid866",
+                            "opacity",
+                            6017,
+                            416,
                             "linear",
                             "${vuurwerk8}",
-                            '1.31769',
-                            '0.21595'
+                            '1',
+                            '0'
                         ]
                     ]
                 }
@@ -4917,24 +4918,14 @@
                             '0.29215'
                         ],
                         [
-                            "eid1164",
-                            "scaleX",
+                            "eid1256",
+                            "display",
+                            6000,
                             0,
-                            1000,
-                            "easeOutQuad",
-                            "${ballon1}",
-                            '0.05175',
-                            '1'
-                        ],
-                        [
-                            "eid1221",
-                            "scaleX",
-                            4500,
-                            1500,
                             "easeInQuad",
-                            "${ballon1}",
-                            '1',
-                            '0.29215'
+                            "${ballon3}",
+                            'block',
+                            'none'
                         ],
                         [
                             "eid1288",
@@ -5125,31 +5116,14 @@
                             '742px'
                         ],
                         [
-                            "eid1268",
-                            "location",
-                            1000,
-                            2938,
-                            "easeInQuad",
-                            "${camera_group}",
-                            [[1023, 407, 0, 0, 0, 0,0],[1007, 399, 0, 0, 0, 0,17.89]]
-                        ],
-                        [
-                            "eid1269",
-                            "location",
-                            3938,
-                            562,
-                            "easeInQuad",
-                            "${camera_group}",
-                            [[1007, 399, 0, 0, 0, 0,0],[1023, 407, 0, 0, 0, 0,17.89]]
-                        ],
-                        [
-                            "eid1259",
-                            "location",
+                            "eid1382",
+                            "scaleX",
                             4500,
                             1500,
-                            "easeInQuad",
-                            "${camera_group}",
-                            [[1023, 407, 0, 0, 0, 0,0],[1208.92, 108.37, 419.52, 253.31, 633.23, 382.36,448.07],[1755, 849, 0, 0, 0, 0,1371.46]]
+                            "linear",
+                            "${versturen}",
+                            '1',
+                            '1.35'
                         ],
                         [
                             "eid1261",
@@ -5242,90 +5216,84 @@
                             '1.09'
                         ],
                         [
-                            "eid1266",
-                            "location",
-                            1000,
-                            500,
-                            "easeInQuad",
-                            "${ballon3}",
-                            [[1604, 566, 0, 0, 0, 0,0],[1604.07, 567, 0, 0, 0, 0,1]]
-                        ],
-                        [
-                            "eid1387",
-                            "location",
-                            1500,
-                            1326,
-                            "linear",
-                            "${ballon3}",
-                            [[1604.07, 567, 1.79, 2.68, 0, 0,0],[1610.76, 574.3, 0, 0, 6.23, 8.58,9.91]]
-                        ],
-                        [
-                            "eid1423",
-                            "location",
-                            2826,
-                            1924,
-                            "linear",
-                            "${ballon3}",
-                            [[1610.76, 574.3, 2.23, 3.07, 0, 0,0],[1612, 578, 0, 0, 0, 0,3.92],[1604, 566, 0, 0, 0, 0,18.34]]
-                        ],
-                        [
-                            "eid1254",
-                            "location",
-                            4750,
-                            1250,
-                            "easeInQuad",
-                            "${ballon3}",
-                            [[1604, 566, 0, 0, 0, 0,0],[1821.88, 583.03, 126.39, 221.58, 116.17, 203.66,230.37],[1766, 850, 0, 0, 0, 0,510.38]]
-                        ],
-                        [
-                            "eid1256",
-                            "display",
-                            6000,
-                            0,
-                            "easeInQuad",
-                            "${ballon3}",
-                            'block',
-                            'none'
-                        ],
-                        [
-                            "eid1382",
-                            "scaleX",
-                            4500,
-                            1500,
+                            "eid1216",
+                            "opacity",
+                            804,
+                            196,
                             "linear",
                             "${versturen}",
-                            '1',
-                            '1.35'
-                        ],
-                        [
-                            "eid1299",
-                            "scaleY",
-                            11000,
-                            1500,
-                            "linear",
-                            "${regenboog}",
-                            '1',
-                            '1.09'
-                        ],
-                        [
-                            "eid1171",
-                            "scaleX",
-                            250,
-                            750,
-                            "easeOutQuad",
-                            "${ballon3}",
-                            '0.05518',
+                            '0',
                             '1'
                         ],
                         [
-                            "eid1229",
-                            "scaleX",
-                            4750,
-                            1250,
+                            "eid1177",
+                            "opacity",
+                            500,
+                            500,
+                            "easeOutQuad",
+                            "${ballon2}",
+                            '0',
+                            '1'
+                        ],
+                        [
+                            "eid1286",
+                            "display",
+                            0,
+                            0,
                             "easeInQuad",
-                            "${ballon3}",
-                            '1',
-                            '0.34216'
+                            "${opnieuw}",
+                            'none',
+                            'none'
+                        ],
+                        [
+                            "eid1331",
+                            "display",
+                            7331,
+                            0,
+                            "linear",
+                            "${opnieuw}",
+                            'none',
+                            'block'
+                        ],
+                        [
+                            "eid1285",
+                            "display",
+                            11000,
+                            0,
+                            "easeInQuad",
+                            "${opnieuw}",
+                            'block',
+                            'block'
+                        ],
+                        [
+                            "eid1379",
+                            "opacity",
+                            7331,
+                            322,
+                            "linear",
+                            "${pi}",
+                            '0.0085470085470085',
+                            '1'
+                        ],
+                        [
+                            "eid1377",
+                            "display",
+                            7331,
+                            0,
+                            "linear",
+                            "${pi}",
+                            'none',
+                            'block'
+                        ],
+                        [
+                            "eid1376",
+                            "display",
+                            12500,
+                            0,
+                            "linear",
+                            "${pi}",
+                            'block',
+                            'block'
                         ],
                         [
                             "eid1179",
@@ -5415,84 +5383,117 @@
                             '1482px'
                         ],
                         [
-                            "eid1377",
-                            "display",
-                            7331,
-                            0,
-                            "linear",
-                            "${pi}",
-                            'none',
-                            'block'
-                        ],
-                        [
-                            "eid1376",
-                            "display",
-                            12500,
-                            0,
-                            "linear",
-                            "${pi}",
-                            'block',
-                            'block'
-                        ],
-                        [
-                            "eid1379",
-                            "opacity",
-                            7331,
-                            322,
-                            "linear",
-                            "${pi}",
-                            '0.0085470085470085',
-                            '1'
-                        ],
-                        [
-                            "eid1286",
-                            "display",
-                            0,
-                            0,
-                            "easeInQuad",
-                            "${opnieuw}",
-                            'none',
-                            'none'
-                        ],
-                        [
-                            "eid1331",
-                            "display",
-                            7331,
-                            0,
-                            "linear",
-                            "${opnieuw}",
-                            'none',
-                            'block'
-                        ],
-                        [
-                            "eid1285",
-                            "display",
-                            11000,
-                            0,
-                            "easeInQuad",
-                            "${opnieuw}",
-                            'block',
-                            'block'
-                        ],
-                        [
-                            "eid1177",
-                            "opacity",
-                            500,
-                            500,
+                            "eid1171",
+                            "scaleX",
+                            250,
+                            750,
                             "easeOutQuad",
-                            "${ballon2}",
-                            '0',
+                            "${ballon3}",
+                            '0.05518',
                             '1'
                         ],
                         [
-                            "eid1216",
-                            "opacity",
-                            804,
-                            196,
+                            "eid1229",
+                            "scaleX",
+                            4750,
+                            1250,
+                            "easeInQuad",
+                            "${ballon3}",
+                            '1',
+                            '0.34216'
+                        ],
+                        [
+                            "eid1299",
+                            "scaleY",
+                            11000,
+                            1500,
                             "linear",
-                            "${versturen}",
-                            '0',
+                            "${regenboog}",
+                            '1',
+                            '1.09'
+                        ],
+                        [
+                            "eid1164",
+                            "scaleX",
+                            0,
+                            1000,
+                            "easeOutQuad",
+                            "${ballon1}",
+                            '0.05175',
                             '1'
+                        ],
+                        [
+                            "eid1221",
+                            "scaleX",
+                            4500,
+                            1500,
+                            "easeInQuad",
+                            "${ballon1}",
+                            '1',
+                            '0.29215'
+                        ],
+                        [
+                            "eid1268",
+                            "location",
+                            1000,
+                            2938,
+                            "easeInQuad",
+                            "${camera_group}",
+                            [[1023, 407, 0, 0, 0, 0,0],[1007, 399, 0, 0, 0, 0,17.89]]
+                        ],
+                        [
+                            "eid1269",
+                            "location",
+                            3938,
+                            562,
+                            "easeInQuad",
+                            "${camera_group}",
+                            [[1007, 399, 0, 0, 0, 0,0],[1023, 407, 0, 0, 0, 0,17.89]]
+                        ],
+                        [
+                            "eid1259",
+                            "location",
+                            4500,
+                            1500,
+                            "easeInQuad",
+                            "${camera_group}",
+                            [[1023, 407, 0, 0, 0, 0,0],[1208.92, 108.37, 419.52, 253.31, 633.23, 382.36,448.07],[1755, 849, 0, 0, 0, 0,1371.46]]
+                        ],
+                        [
+                            "eid1266",
+                            "location",
+                            1000,
+                            500,
+                            "easeInQuad",
+                            "${ballon3}",
+                            [[1604, 566, 0, 0, 0, 0,0],[1604.07, 567, 0, 0, 0, 0,1]]
+                        ],
+                        [
+                            "eid1387",
+                            "location",
+                            1500,
+                            1326,
+                            "linear",
+                            "${ballon3}",
+                            [[1604.07, 567, 1.79, 2.68, 0, 0,0],[1610.76, 574.3, 0, 0, 0, 0,9.9]]
+                        ],
+                        [
+                            "eid1423",
+                            "location",
+                            2826,
+                            1924,
+                            "linear",
+                            "${ballon3}",
+                            [[1610.76, 574.3, 2.23, 3.07, 0, 0,0],[1612, 578, 0, 0, 0, 0,3.92],[1604, 566, 0, 0, 0, 0,18.34]]
+                        ],
+                        [
+                            "eid1254",
+                            "location",
+                            4750,
+                            1250,
+                            "easeInQuad",
+                            "${ballon3}",
+                            [[1604, 566, 0, 0, 0, 0,0],[1821.88, 583.03, 126.39, 221.58, 116.17, 203.66,230.37],[1766, 850, 0, 0, 0, 0,510.38]]
                         ],
                         [
                             "eid1337",
@@ -5528,23 +5529,25 @@
                 content: {
                     dom: [
                         {
-                            type: 'image',
-                            id: 'bg',
                             rect: ['0px', '0px', '906px', '524px', 'auto', 'auto'],
+                            id: 'bg',
+                            transform: [[], [], [], ['1.09272']],
+                            type: 'image',
                             fill: ['rgba(0,0,0,0)', 'images/spreekballon3.svg', '0px', '0px']
                         },
                         {
-                            type: 'text',
-                            rect: ['238px', '137px', '463px', '243px', 'auto', 'auto'],
+                            rect: ['236px', '145px', '477px', '243px', 'auto', 'auto'],
+                            font: ['Arial, Helvetica, sans-serif', [40, 'px'], 'rgba(0,0,0,1)', 'normal', 'none', '', 'break-word', 'normal'],
                             id: 'text',
-                            text: 'Gebruik daarvoor <br>deze tekstballonnetjes. <br>Als je het leuk vindt kun je ook een selfie meesturen. Groetjes Rick en Hilde',
+                            text: 'Als je het leuk vindt kun je ook een selfie meesturen. Vergeet niet je naam te vermelden. Groetjes Rick en Hilde.',
                             align: 'center',
-                            font: ['Arial, Helvetica, sans-serif', [40, 'px'], 'rgba(0,0,0,1)', 'normal', 'none', '', 'break-word', 'normal']
+                            type: 'text'
                         }
                     ],
                     style: {
                         '${symbolSelector}': {
-                            rect: [null, null, '906px', '524px']
+                            isStage: 'true',
+                            rect: [undefined, undefined, '906px', '524px']
                         }
                     }
                 },
@@ -5568,21 +5571,23 @@
                         {
                             rect: ['0px', '0px', '599px', '312px', 'auto', 'auto'],
                             id: 'bg',
+                            transform: [[], [], [], ['1.12687']],
                             type: 'image',
                             fill: ['rgba(0,0,0,0)', 'images/spreekballon2.svg', '0px', '0px']
                         },
                         {
+                            rect: ['120px', '69px', '396px', '150px', 'auto', 'auto'],
                             font: ['Arial, Helvetica, sans-serif', [43, 'px'], 'rgba(0,0,0,1)', 'normal', 'none', '', 'break-word', 'normal'],
-                            type: 'text',
                             id: 'text',
-                            text: 'Dat kan!',
+                            text: 'Type je bericht in deze <br>tekst-ballonnetjes.',
                             align: 'center',
-                            rect: ['174px', '69px', '280px', '150px', 'auto', 'auto']
+                            type: 'text'
                         }
                     ],
                     style: {
                         '${symbolSelector}': {
-                            rect: [null, null, '599px', '312px']
+                            isStage: 'true',
+                            rect: [undefined, undefined, '599px', '312px']
                         }
                     }
                 },
@@ -5604,23 +5609,24 @@
                 content: {
                     dom: [
                         {
-                            rect: ['0px', '0px', '599px', '312px', 'auto', 'auto'],
                             id: 'bg',
                             type: 'image',
+                            rect: ['0px', '0px', '599px', '312px', 'auto', 'auto'],
                             fill: ['rgba(0,0,0,0)', 'images/spreekballon1.svg', '0px', '0px']
                         },
                         {
+                            rect: ['82px', '63px', '435px', '162px', 'auto', 'auto'],
                             font: ['Arial, Helvetica, sans-serif', [43, 'px'], 'rgba(0,0,0,1)', 'normal', 'none', '', 'break-word', 'normal'],
-                            type: 'text',
                             id: 'text',
-                            text: 'Wil je een berichtje achterlaten voor Siene?',
+                            text: 'Wil je een berichtje achterlaten voor Siene? Dat kan!',
                             align: 'center',
-                            rect: ['82px', '63px', '435px', '162px', 'auto', 'auto']
+                            type: 'text'
                         }
                     ],
                     style: {
                         '${symbolSelector}': {
-                            rect: [null, null, '599px', '312px']
+                            isStage: 'true',
+                            rect: [undefined, undefined, '599px', '312px']
                         }
                     }
                 },
@@ -5642,10 +5648,10 @@
                 content: {
                     dom: [
                         {
-                            type: 'image',
-                            id: 'img_camera',
                             rect: ['136px', '98px', '273px', '208px', 'auto', 'auto'],
+                            id: 'img_camera',
                             transform: [[], [], [], ['1.37178', '1.37178']],
+                            type: 'image',
                             fill: ['rgba(0,0,0,0)', 'images/camera.svg', '0px', '0px']
                         }
                     ],
@@ -5663,8 +5669,8 @@
                     },
                     data: [
                         [
-                            "eid1408",
-                            "scaleY",
+                            "eid1407",
+                            "scaleX",
                             1278,
                             444,
                             "linear",
@@ -5673,8 +5679,8 @@
                             '0.8'
                         ],
                         [
-                            "eid1407",
-                            "scaleX",
+                            "eid1408",
+                            "scaleY",
                             1278,
                             444,
                             "linear",
@@ -5695,18 +5701,18 @@
                 content: {
                     dom: [
                         {
-                            rect: ['-282px', '-36px', '1041px', '416px', 'auto', 'auto'],
-                            id: 'spreekballon2',
                             type: 'image',
+                            id: 'spreekballon2',
+                            rect: ['-282px', '-36px', '1041px', '416px', 'auto', 'auto'],
                             fill: ['rgba(0,0,0,0)', 'images/spreekballon2.svg', '0px', '0px']
                         },
                         {
-                            font: ['Arial, Helvetica, sans-serif', [36, 'px'], 'rgba(0,0,0,1)', 'normal', 'none', '', 'break-word', 'normal'],
                             type: 'text',
+                            rect: ['64px', '64px', '378px', '220px', 'auto', 'auto'],
                             id: 'Text',
                             text: 'Ga op onderzoek uit in in de wereld van Siene! Kijk en klik lekker rond. Staat je geluid aan?',
                             align: 'center',
-                            rect: ['64px', '64px', '378px', '220px', 'auto', 'auto']
+                            font: ['Arial, Helvetica, sans-serif', [36, 'px'], 'rgba(0,0,0,1)', 'normal', 'none', '', 'break-word', 'normal']
                         }
                     ],
                     style: {
@@ -5733,19 +5739,19 @@
                 content: {
                     dom: [
                         {
-                            transform: [[], ['-180'], [0, 0, 0], [1, 1, 1]],
-                            id: 'spreekballon1',
                             type: 'image',
+                            id: 'spreekballon1',
                             rect: ['134px', '-38px', '599px', '312px', 'auto', 'auto'],
+                            transform: [[], ['-180'], [0, 0, 0], [1, 1, 1]],
                             fill: ['rgba(0,0,0,0)', 'images/spreekballon1.svg', '0px', '0px']
                         },
                         {
-                            font: ['Arial, Helvetica, sans-serif', [36, 'px'], 'rgba(0,0,0,1)', '400', 'none solid rgb(0, 0, 0)', 'normal', 'break-word', 'normal'],
                             type: 'text',
+                            rect: ['262px', '84px', '350px', '118px', 'auto', 'auto'],
                             id: 'Text2',
                             text: 'Nog even je webcam toestemming geven...',
                             align: 'center',
-                            rect: ['262px', '84px', '350px', '118px', 'auto', 'auto']
+                            font: ['Arial, Helvetica, sans-serif', [36, 'px'], 'rgba(0,0,0,1)', '400', 'none solid rgb(0, 0, 0)', 'normal', 'break-word', 'normal']
                         }
                     ],
                     style: {
@@ -5781,7 +5787,7 @@
                             rect: ['208px', '150px', '516px', '116px', 'auto', 'auto'],
                             font: ['Arial, Helvetica, sans-serif', [20, 'px'], 'rgba(0,0,0,1)', 'normal', 'none', '', 'break-word', 'normal'],
                             id: 'Text',
-                            text: 'Ontwerp en realisate: Rick &amp; Hilde, 2014<br>Muziek: Elly &amp; Rikkert - Het Oinkbeest, 1972',
+                            text: 'Ontwerp en realisatie: Rick &amp; Hilde, 2015<br>Muziek: Elly &amp; Rikkert - Het Oinkbeest, 1972',
                             align: 'center',
                             type: 'text'
                         }
